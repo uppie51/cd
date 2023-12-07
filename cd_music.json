@@ -1,0 +1,18 @@
+{
+    "CD": {
+        "titolo": "bahia",
+        "anno di pubblicazione": "2000",
+        "artista": [
+            "rock",
+            "besti",
+            "carol"
+        ],
+        "genereusicale": "pop",
+        "top canzoni": [
+            {
+                "titolo": "luna",
+                "minuti traccia": "due minuti"
+            }
+        ]
+    }
+}
